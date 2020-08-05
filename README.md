@@ -1,3 +1,7 @@
+# unmaintained fork
+The purpose of this fork is just as a fallback repo in case the Arch AUR package I currently maintain goes awry. Should I need to, I can point the install script to use this repo temporarily while I figure out what changed with whatever new source I use in the future.
+
+
 ankisyncd
 =========
 
